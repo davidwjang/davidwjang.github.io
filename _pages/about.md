@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Work in progress
+I am a Ph.D. candidate in the Department of Economics at The University of Texas at Austin. I am currently on the job market and expect to graduate in May 2023.
