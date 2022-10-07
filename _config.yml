@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "David Jang"
+title                    : "David W. Jang"
 title_separator          : " "
 name                     : " "
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "David Jang"
+  name             : "David W. Jang"
   avatar           : "IMG_7139.JPG"
   bio              : "PhD Candidate, Economics"
 
