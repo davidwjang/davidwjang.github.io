@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV [here](https://davidwjang.github.io/files/CDavid_Jang_CV.pdf){:target="_blank" rel="noopener"}.
+You can download my CV [here](https://davidwjang.github.io/files/David_Jang_CV.pdf){:target="_blank" rel="noopener"}.
 
 <style>
 /* Only resize the element if PDF is embedded */
