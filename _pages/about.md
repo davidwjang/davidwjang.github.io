@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the Department of Economics at The University of Texas at Austin. I am currently on the job market and expect to graduate in May 2023.
+I am a fifth year Economics Ph.D. candidate at The University of Texas at Austin. I am currently on the job market and expect to graduate in May 2023.
 
 My research interests include **Macroeconomics and Labor Economics**.
 
