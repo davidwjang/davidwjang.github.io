@@ -19,3 +19,29 @@ E-mail: david.jang@utexas.edu <br>
 Department of Economics <br>
 The University of Texas at Austin <br>
 2225 Speedway, Austin, TX 78705
+  
+  <style>
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
