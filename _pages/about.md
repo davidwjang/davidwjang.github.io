@@ -12,7 +12,7 @@ I am a PhD Candidate at the University of Texas at Austin. I will be on the job 
 
 My research interests include **Macroeconomics and Labor Economics**.
 
-My job market paper is titled <a href="https://davidwjang.github.io/files/David_Jang_JMP.pdf">**<u>Declining Labor Turnover and the Importance of Intensive Margin Adjustments</u>**.
+My job market paper is titled <a href="https://davidwjang.github.io/files/Jang_JMP.pdf">**<u>Declining Labor Turnover and the Importance of Intensive Margin Adjustments</u>**.
 
 E-mail: david.jang@utexas.edu <br>
 
