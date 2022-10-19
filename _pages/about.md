@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate at the University of Texas at Austin. I will be on the job market this Fall 2022 and expect to graduate in May 2023.
+Welcome! I am a PhD Candidate at the University of Texas at Austin. I will be on the job market this Fall 2022 and expect to graduate in May 2023.
 
 My research interests include **Macroeconomics and Labor Economics**.
 
