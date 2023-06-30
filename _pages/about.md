@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Research Economist at the Bureau of Economic Analysis.
+Welcome! I am currently employed as a Research Economist at the Bureau of Economic Analysis.
 
-My research interests include **Macroeconomics and Labor Economics**.
+My research interests include macroeconomics and labor economics.
 
 E-mail: david.jang@bea.gov <br>
 
