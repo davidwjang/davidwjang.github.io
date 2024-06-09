@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Research Economist at the Bureau of Economic Analysis.
+Welcome! I am a research economist at the Bureau of Economic Analysis.
 
 My research interests include macroeconomics and labor economics.
 
